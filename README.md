@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my profile!
+
+<!---
+You can find me on:
+[LinkedIn](https://www.linkedin.com/in/ivan-yordanov-a34749154/)
+[e-mail](mailto:vanko_yordanov@yahoo.com)
+[edabit](https://edabit.com/user/zjr4xTWbnbzj6mGNe?tab=completed)
+-->
 
 <!--
 **sujuka99/sujuka99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
