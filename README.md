@@ -49,6 +49,6 @@
 <!-- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  -->
 </p>
 
-### 📊 Github Stats
+<!-- ### 📊 Github Stats -->
 
-![sujuka99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujuka99&show_icons=true&theme=gruvbox&hide_rank=true)
+<!-- ![sujuka99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujuka99&show_icons=true&theme=gruvbox&hide_rank=true) -->
