@@ -21,6 +21,7 @@
 * 🌍 I'm based the Netherlands.
 * ✉️ You can contact me at [hi@ivanyordanov.me](mailto:hi@ivanyordanov.me).
 * 🧠 I'm learning Software Development, DevOps and Cloud Engineering.
+* 🖥️ The terminal is where I do most of my work.
 * 💬 Ask me about anything tech related, I am happy to help.
 * 🫀 I'm fascinated by the study of medicine.
 * 🏂 As a sports enthusiast, I enjoy snowboarding and bmx.
