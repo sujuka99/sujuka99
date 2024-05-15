@@ -18,7 +18,7 @@
 
 ### More About Me
 
-* 🌍 I'm based in Bulgaria, soon the Netherlands.
+* 🌍 I'm based the Netherlands.
 * ✉️ You can contact me at [hi@ivanyordanov.me](mailto:hi@ivanyordanov.me).
 * 🧠 I'm learning Software Development, DevOps and Cloud Engineering.
 * 💬 Ask me about anything tech related, I am happy to help.
