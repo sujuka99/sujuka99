@@ -13,8 +13,8 @@
 <!-- <a href="https://medium.com/@vanko_yordanov" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a> -->
 </p>
 
-* **Profession**: Software engineer
-* **Current Work**: 💻 Software engineer at [bakdata](https://bakdata.com/)
+* **Profession**: Software/Cloud engineer
+* **Current Work**: 💻 Public cloud engineer at [TrueFullstaq](https://www.fullstaq.com)
 
 ### More About Me
 
