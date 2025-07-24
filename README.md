@@ -14,7 +14,7 @@
 </p>
 
 * **Profession**: Software/Cloud engineer
-* **Current Work**: 💻 Public cloud engineer at [Crystalloids](https://www.crystalloids.com)
+* **Current Work**: 💻 Software engineer at [Crystalloids](https://www.crystalloids.com)
 
 ### More About Me
 
@@ -36,8 +36,7 @@
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a> 
 <p align="left">
 </p>
-
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16#sql-server-components-and-technologies" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" alt="SQL Server" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-graphql-3521468-2944912.png?f=webp&w=256" alt="GraphQL" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.kernel.org/theme/images/logos/tux.png" alt="Linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
@@ -47,8 +46,8 @@
 <a href="https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_2s5m1/styles/communityIcon_eyu47oqjbkue1.png?width=128&frame=1&auto=webp&s=fb1c8584cadcfe5ae154ff85f25c092243dbca7a" alt="GitHub Actions" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/20_kubernetes-512.png" alt="Kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://gogeticon.net/files/3163573/d130ef65a8efdfa66fa49eb5ab745cef.png" alt="Docker" width="40" height="40"/> </a>
-<!-- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  -->
 </p>
+<!-- <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16#sql-server-components-and-technologies" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" alt="SQL Server" width="40" height="40"/> </a>  -->
 
 <!-- ### 📊 Github Stats -->
 
